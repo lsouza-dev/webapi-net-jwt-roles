@@ -18,7 +18,7 @@ A aplicação fornece um exemplo de integração de autenticação JWT em uma AP
 
 Antes de começar, você precisará ter instalado em seu sistema:
 
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) ou outro banco de dados suportado configurado
 - [Visual Studio](https://visualstudio.microsoft.com/) ou [Visual Studio Code](https://code.visualstudio.com/) para desenvolvimento
