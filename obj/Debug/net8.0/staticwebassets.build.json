@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MZQx+E3dpLdmMELKKstAuJy4a2HlzpAVFrLj94608EA=",
+  "Source": "MyNetAPI",
+  "BasePath": "_content/MyNetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
